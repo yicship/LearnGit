@@ -1,4 +1,6 @@
 2021/04/30 1st create data
 AXAXAX
 
+centos: today is Friday
+centos: tommorrow is Saturday
 Win10: I like sunny
