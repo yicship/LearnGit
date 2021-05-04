@@ -1,1 +1,2 @@
 Linux version 3.10.0-1160.6.1.rt56.1139.el7.x86_64 (mockbuild@kbuilder.bsys.centos.org) (gcc version 4.8.5 20150623 (Red Hat 4.8.5-44) (GCC) ) #1 SMP PREEMPT RT Tue Nov 17 13:10:44 UTC 2020
+MINGW64_NT-10.0-18363 version 3.1.7-340.x86_64 (@WIN-6219F9QD3BC) (gcc version 10.2.0 (GCC) ) 2021-03-26 22:17 UTC
