@@ -7,3 +7,4 @@ Win10: I like sunny
 
 -- holiday -- 
 Win10: continue
+Win10: tuesday
